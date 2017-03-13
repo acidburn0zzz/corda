@@ -21,6 +21,7 @@
     "duplexify": "^3.5.0",
     "node-uuid": "^1.4.7",
     "raco": "^3.2.3",
+    "stream-shift": "^1.0.0",
     "through2": "^2.0.3"
   }
 }
