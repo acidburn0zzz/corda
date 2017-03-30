@@ -2,7 +2,7 @@ var tape = require('tape')
 var through = require('through2')
 var concat = require('concat-stream')
 var net = require('net')
-var Duplexer = require('../lib/duplexer')
+var Duplexer = require('../lib/protocol')
 
 tape('passthrough', function (t) {
   t.plan(2)
